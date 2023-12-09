@@ -20,5 +20,8 @@
   "bin": {
     "mrwiki": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
 }
