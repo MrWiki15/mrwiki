@@ -1,15 +1,15 @@
 const messages = [
-    "This is where it all begins...",
-    "Commit committed",
-    "Version control is awful",
-    "COMMIT ALL THE FILES!",
-    "The same thing we do every night, Pinky - try to take over the world!",
+    "La vida es una lenteja, o la tomas o la dejas. Como tu hermana en la nevera :<",
+    "Cojima Cabron",
+    "El destino del genio es ser un incomprendido, pero no todo incomprendido es un genio. Y por eso nunca debes hacer un 'GIT RESET (ESTA TOTALMENTE PROHIBIDO)'",
+    "COMMIT ALL THE FILES! Fokiu",
+    "El genio se compone del dos por ciento de talento y del noventa y ocho por ciento de perseverante aplicación. Y por esa razon ella no te quiere >:",
     "Lock S-foils in attack position",
     "This commit is a lie",
     "I'll explain when you're older!",
     "Here be Dragons",
     "Reinventing the wheel. Again.",
-    "This is not the commit message you are looking for",
+    "El genio comienza las grandes obras, pero sólo el trabajo las aca... (En efecto la acabo)",
     "Batman! (this commit has no parents)",
   ];
   
